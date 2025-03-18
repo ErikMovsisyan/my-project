@@ -15,21 +15,21 @@ if(z == '+'){
 
     printf("%d\n",x+y);
 }
-if(z == '-') {
+if(z == '-')     {
     printf("%d\n",x-y);
 }
-if(z == '*'){
+if(z == '*')    {
 printf("%d\n",x*y);
 }
 if(z == '/'){
 
-    if(y != 0){
+    if(y != 0)        {
 printf("%d\n",x/y);}
 else {
     printf("udnefined\n");
       }
 }
-if(z == '^'){
+if(z == '^')    {
     printf("%d\n",x^y);
 }
 
